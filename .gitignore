@@ -1,0 +1,9 @@
+# Unity specific
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/Assets/AssetStoreTools*
+*.csproj
+*.sln
+*.userprefs
